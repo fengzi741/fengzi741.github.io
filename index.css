@@ -11,11 +11,8 @@ a  {
 }
 a:hover {
     text-decoration:underline;
-    color:#ff0700;
+    color:blue;
 }
-#home{
-    text-align: center;
-}
-#home h3{
-    display: inline-block;
+ul,li{
+    list-style: none;
 }
